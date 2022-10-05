@@ -3,7 +3,7 @@ body {
     color: black;
     margin: 0px;
     padding: 0px;
-    background-image: url('/project1/image/bg.png');
+    background-image: url('bg.png');
 }
 
 .left {
